@@ -36,7 +36,7 @@ docker exec <nombre contenedor> <comando> <argumentos opcionales>
 ```
 
 ```
-docker exec nuevoContenedor ls -l
+docker exec newContainer ls -l
 ```
 
 ### ¿Para qué se usa el comando ls?
@@ -116,7 +116,7 @@ docker exec -it newContainer /bin/bash
 
 ![Imagen localhost contrasenia](img/CapturaContrasenia.PNG)
 
-Como se observa en la captura, no existe un espacio en el que se pueda colocar la contraseña obnetida (176d68cd485a4b9c8f2d23cc62caa0b1)
+Como se observa en la captura, no existe un espacio en el que se pueda colocar la contraseña obtenida (176d68cd485a4b9c8f2d23cc62caa0b1)
 
 **Para este punto no es necesario continuar con la instalación de Jenkins**
 
